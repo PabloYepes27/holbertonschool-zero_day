@@ -1,6 +1,6 @@
 # holbertonschool-zero_day
 
-This is the first repo about the vagrant and virtual machines , and how the version controls works
+This is the first repositorie at holberyon school
 
-This is the update
+Here you can see some projects about vagrant and virtual machines, Text editors like Emacs and Vim, very first steps abou how the version controls works with git and github.
 
