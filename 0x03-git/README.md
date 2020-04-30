@@ -1,59 +1,51 @@
-# 0x02. vi
+# 0x03. Git
 
 ## Resources:books:
 Read or watch:
-* [Basic vi Commands](https://intranet.hbtn.io/rltoken/TvhnXN1GAP7Et5OSuceGqw)
+* [Source code management](https://intranet.hbtn.io/rltoken/iVJv3-O_BGNiwL3wBcB_Xg)
+* [Git and Github cheat sheet](https://intranet.hbtn.io/rltoken/GjdzrUfX65qa-2NGNBKBOQ)
+* [Resources to learn Git](https://intranet.hbtn.io/rltoken/R0sxgBfnnSyXN2raCOn3ZQ)
+* [About READMEs](https://intranet.hbtn.io/rltoken/lcW20FITdBpI00IrhDUkgw)
+* [How to write a Git commit message](https://intranet.hbtn.io/rltoken/AvIbO7uXT9-BiWgXIhszDg)
 
 ---
 ## Learning Objectives:bulb:
 What you should learn from this project:
 
-* What is vi
-* Who is Bill Joy
-* How to start and exit vi
-* What are the command and insert modes, and how to switch from one to the other
-* How to edit text
-* How to cut and paste lines
-* How to search forward and backward
-* How to undo
-* How to quit vi
+* What is source code management
+* What is Git
+* What is GitHub
+* What is the difference between Git and GitHub
+* How to create a repository
+* What is a README
+* How to write good READMEs
+* How to commit
+* How to write helpful commit messages
+* How to push code
+* How to pull updates
+* How to create a branch
+* How to merge branches
+* How to work as collaborators on a project
+* Which files should and which files should not appear in your repo
 
 ---
 
-### [0. Inserting](./0-inserting)
-* What is the command to insert text before the cursor?
+### [0. Repo-session](./bash/holberton)
+* Create a new directory called 0x03-git in your holbertonschool-zero_day repo. Make sure you include a README.md in your directory.
 
 
-### [1. Cutting](./1-cutting)
-* What is the command to cut the current line? (yank, cut)
+### [1. Coding fury road](./bash/holberton)
+* For the moment we have an empty project directory containing only a README.md. It’s time to code!
 
 
-### [2. Pasting](./2-pasting)
-* What is the command to paste the lines in the buffer into the text after the current line?
+### [2. Collaboration is the base of a company](./README.md)
+* A branch is like a copy of your project. It’s used mainly for:
 
 
-### [3. Undoing](./3-undoing)
-* What is the command to undo what you just did?
+### [3. Collaboration: be up to date](./.gitignore)
+* Of course, you can also work on the same branch as your co-workers and it’s best if you keep up to date with their changes.
 
 
-### [4. Exiting](./4-exiting)
-* What is the command to quit vi even though latest changes have not been saved for this vi call?
-
-
-### [5. Beginning of the line](./5-beginning_line)
-* What is the command to move the cursor to the start of the current line?
-
-
-### [6. End of the line](./6-end_line)
-* What is the command to move the cursor to the end of the line?
-
-
-### [7. Line 32](./100-move_to_line)
-* What is the command to move the cursor to line 32?
-
-
-### [8. Delete current and previous line](./101-delete_line)
-* What is the command to delete the current and previous line at the same time?
 
 ---
 
